@@ -1,0 +1,9 @@
+C:\Users\David Lim\Desktop\GITA 1\Airplane\Airplane\bin\Debug\Airplane.exe.config
+C:\Users\David Lim\Desktop\GITA 1\Airplane\Airplane\bin\Debug\Airplane.exe
+C:\Users\David Lim\Desktop\GITA 1\Airplane\Airplane\bin\Debug\Airplane.pdb
+C:\Users\David Lim\Desktop\GITA 1\Airplane\Airplane\obj\Debug\Airplane.csprojAssemblyReference.cache
+C:\Users\David Lim\Desktop\GITA 1\Airplane\Airplane\obj\Debug\Airplane.Form1.resources
+C:\Users\David Lim\Desktop\GITA 1\Airplane\Airplane\obj\Debug\Airplane.Properties.Resources.resources
+C:\Users\David Lim\Desktop\GITA 1\Airplane\Airplane\obj\Debug\Airplane.csproj.GenerateResource.cache
+C:\Users\David Lim\Desktop\GITA 1\Airplane\Airplane\obj\Debug\Airplane.exe
+C:\Users\David Lim\Desktop\GITA 1\Airplane\Airplane\obj\Debug\Airplane.pdb
