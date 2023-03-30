@@ -1,0 +1,19 @@
+C:\Users\David Lim\Desktop\GITA 1\About Page\About Page\bin\Debug\About Page.exe.config
+C:\Users\David Lim\Desktop\GITA 1\About Page\About Page\bin\Debug\About Page.exe
+C:\Users\David Lim\Desktop\GITA 1\About Page\About Page\bin\Debug\About Page.pdb
+C:\Users\David Lim\Desktop\GITA 1\About Page\About Page\obj\Debug\About Page.csprojAssemblyReference.cache
+C:\Users\David Lim\Desktop\GITA 1\About Page\About Page\obj\Debug\About_Page.Properties.Resources.resources
+C:\Users\David Lim\Desktop\GITA 1\About Page\About Page\obj\Debug\About Page.csproj.GenerateResource.cache
+C:\Users\David Lim\Desktop\GITA 1\About Page\About Page\obj\Debug\About Page.csproj.CoreCompileInputs.cache
+C:\Users\David Lim\Desktop\GITA 1\About Page\About Page\obj\Debug\About Page.exe
+C:\Users\David Lim\Desktop\GITA 1\About Page\About Page\obj\Debug\About Page.pdb
+C:\Users\David Lim\Desktop\GITA 1\About Page\About Page\obj\Debug\About_Page.title.resources
+E:\GITA 1\About Page\About Page\bin\Debug\About Page.exe.config
+E:\GITA 1\About Page\About Page\bin\Debug\About Page.exe
+E:\GITA 1\About Page\About Page\bin\Debug\About Page.pdb
+E:\GITA 1\About Page\About Page\obj\Debug\About Page.csprojAssemblyReference.cache
+E:\GITA 1\About Page\About Page\obj\Debug\About_Page.title.resources
+E:\GITA 1\About Page\About Page\obj\Debug\About_Page.Properties.Resources.resources
+E:\GITA 1\About Page\About Page\obj\Debug\About Page.csproj.GenerateResource.cache
+E:\GITA 1\About Page\About Page\obj\Debug\About Page.exe
+E:\GITA 1\About Page\About Page\obj\Debug\About Page.pdb
