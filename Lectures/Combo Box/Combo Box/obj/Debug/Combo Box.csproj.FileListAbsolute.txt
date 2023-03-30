@@ -1,0 +1,10 @@
+C:\Users\David Lim\Desktop\GITA 1\Combo Box\Combo Box\bin\Debug\Combo Box.exe.config
+C:\Users\David Lim\Desktop\GITA 1\Combo Box\Combo Box\bin\Debug\Combo Box.exe
+C:\Users\David Lim\Desktop\GITA 1\Combo Box\Combo Box\bin\Debug\Combo Box.pdb
+C:\Users\David Lim\Desktop\GITA 1\Combo Box\Combo Box\obj\Debug\Combo Box.csprojAssemblyReference.cache
+C:\Users\David Lim\Desktop\GITA 1\Combo Box\Combo Box\obj\Debug\Combo_Box.Form1.resources
+C:\Users\David Lim\Desktop\GITA 1\Combo Box\Combo Box\obj\Debug\Combo_Box.Properties.Resources.resources
+C:\Users\David Lim\Desktop\GITA 1\Combo Box\Combo Box\obj\Debug\Combo Box.csproj.GenerateResource.cache
+C:\Users\David Lim\Desktop\GITA 1\Combo Box\Combo Box\obj\Debug\Combo Box.csproj.CoreCompileInputs.cache
+C:\Users\David Lim\Desktop\GITA 1\Combo Box\Combo Box\obj\Debug\Combo Box.exe
+C:\Users\David Lim\Desktop\GITA 1\Combo Box\Combo Box\obj\Debug\Combo Box.pdb
