@@ -1,0 +1,9 @@
+C:\Users\David Lim\Desktop\GITA 1\FirePower\FirePower\bin\Debug\FirePower.exe.config
+C:\Users\David Lim\Desktop\GITA 1\FirePower\FirePower\bin\Debug\FirePower.exe
+C:\Users\David Lim\Desktop\GITA 1\FirePower\FirePower\bin\Debug\FirePower.pdb
+C:\Users\David Lim\Desktop\GITA 1\FirePower\FirePower\obj\Debug\FirePower.csprojAssemblyReference.cache
+C:\Users\David Lim\Desktop\GITA 1\FirePower\FirePower\obj\Debug\FirePower.Form1.resources
+C:\Users\David Lim\Desktop\GITA 1\FirePower\FirePower\obj\Debug\FirePower.Properties.Resources.resources
+C:\Users\David Lim\Desktop\GITA 1\FirePower\FirePower\obj\Debug\FirePower.csproj.GenerateResource.cache
+C:\Users\David Lim\Desktop\GITA 1\FirePower\FirePower\obj\Debug\FirePower.exe
+C:\Users\David Lim\Desktop\GITA 1\FirePower\FirePower\obj\Debug\FirePower.pdb
