@@ -1,0 +1,30 @@
+C:\Users\David Lim\Desktop\GITA 1\Dice Roll\Dice Roll\bin\Debug\Dice Roll.exe.config
+C:\Users\David Lim\Desktop\GITA 1\Dice Roll\Dice Roll\bin\Debug\Dice Roll.exe
+C:\Users\David Lim\Desktop\GITA 1\Dice Roll\Dice Roll\bin\Debug\Dice Roll.pdb
+C:\Users\David Lim\Desktop\GITA 1\Dice Roll\Dice Roll\obj\Debug\Dice Roll.csprojAssemblyReference.cache
+C:\Users\David Lim\Desktop\GITA 1\Dice Roll\Dice Roll\obj\Debug\Dice_Roll.Form1.resources
+C:\Users\David Lim\Desktop\GITA 1\Dice Roll\Dice Roll\obj\Debug\Dice_Roll.Properties.Resources.resources
+C:\Users\David Lim\Desktop\GITA 1\Dice Roll\Dice Roll\obj\Debug\Dice Roll.csproj.GenerateResource.cache
+C:\Users\David Lim\Desktop\GITA 1\Dice Roll\Dice Roll\obj\Debug\Dice Roll.csproj.CoreCompileInputs.cache
+C:\Users\David Lim\Desktop\GITA 1\Dice Roll\Dice Roll\obj\Debug\Dice Roll.exe
+C:\Users\David Lim\Desktop\GITA 1\Dice Roll\Dice Roll\obj\Debug\Dice Roll.pdb
+C:\Users\David Lim\Desktop\GITA 1\Dice Roll - Copy\Dice Roll\bin\Debug\Dice Roll.exe.config
+C:\Users\David Lim\Desktop\GITA 1\Dice Roll - Copy\Dice Roll\bin\Debug\Dice Roll.exe
+C:\Users\David Lim\Desktop\GITA 1\Dice Roll - Copy\Dice Roll\bin\Debug\Dice Roll.pdb
+C:\Users\David Lim\Desktop\GITA 1\Dice Roll - Copy\Dice Roll\obj\Debug\Dice Roll.csprojAssemblyReference.cache
+C:\Users\David Lim\Desktop\GITA 1\Dice Roll - Copy\Dice Roll\obj\Debug\Dice_Roll.Form1.resources
+C:\Users\David Lim\Desktop\GITA 1\Dice Roll - Copy\Dice Roll\obj\Debug\Dice_Roll.Properties.Resources.resources
+C:\Users\David Lim\Desktop\GITA 1\Dice Roll - Copy\Dice Roll\obj\Debug\Dice Roll.csproj.GenerateResource.cache
+C:\Users\David Lim\Desktop\GITA 1\Dice Roll - Copy\Dice Roll\obj\Debug\Dice Roll.csproj.CoreCompileInputs.cache
+C:\Users\David Lim\Desktop\GITA 1\Dice Roll - Copy\Dice Roll\obj\Debug\Dice Roll.exe
+C:\Users\David Lim\Desktop\GITA 1\Dice Roll - Copy\Dice Roll\obj\Debug\Dice Roll.pdb
+C:\Users\David Lim\Desktop\GITA 1\Craps!\Dice Roll\bin\Debug\Dice Roll.exe.config
+C:\Users\David Lim\Desktop\GITA 1\Craps!\Dice Roll\bin\Debug\Dice Roll.exe
+C:\Users\David Lim\Desktop\GITA 1\Craps!\Dice Roll\bin\Debug\Dice Roll.pdb
+C:\Users\David Lim\Desktop\GITA 1\Craps!\Dice Roll\obj\Debug\Dice Roll.csprojAssemblyReference.cache
+C:\Users\David Lim\Desktop\GITA 1\Craps!\Dice Roll\obj\Debug\Dice_Roll.Form1.resources
+C:\Users\David Lim\Desktop\GITA 1\Craps!\Dice Roll\obj\Debug\Dice_Roll.Properties.Resources.resources
+C:\Users\David Lim\Desktop\GITA 1\Craps!\Dice Roll\obj\Debug\Dice Roll.csproj.GenerateResource.cache
+C:\Users\David Lim\Desktop\GITA 1\Craps!\Dice Roll\obj\Debug\Dice Roll.csproj.CoreCompileInputs.cache
+C:\Users\David Lim\Desktop\GITA 1\Craps!\Dice Roll\obj\Debug\Dice Roll.exe
+C:\Users\David Lim\Desktop\GITA 1\Craps!\Dice Roll\obj\Debug\Dice Roll.pdb
