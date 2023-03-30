@@ -1,0 +1,10 @@
+C:\Users\David Lim\Desktop\GITA 1\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+C:\Users\David Lim\Desktop\GITA 1\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe
+C:\Users\David Lim\Desktop\GITA 1\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.pdb
+C:\Users\David Lim\Desktop\GITA 1\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csprojAssemblyReference.cache
+C:\Users\David Lim\Desktop\GITA 1\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Properties.Resources.resources
+C:\Users\David Lim\Desktop\GITA 1\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csproj.GenerateResource.cache
+C:\Users\David Lim\Desktop\GITA 1\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csproj.CoreCompileInputs.cache
+C:\Users\David Lim\Desktop\GITA 1\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.exe
+C:\Users\David Lim\Desktop\GITA 1\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.pdb
+C:\Users\David Lim\Desktop\GITA 1\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Form1.resources

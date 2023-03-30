@@ -1,0 +1,10 @@
+C:\Users\David Lim\Desktop\GITA 1\arrays\arrays\bin\Debug\arrays.exe.config
+C:\Users\David Lim\Desktop\GITA 1\arrays\arrays\bin\Debug\arrays.exe
+C:\Users\David Lim\Desktop\GITA 1\arrays\arrays\bin\Debug\arrays.pdb
+C:\Users\David Lim\Desktop\GITA 1\arrays\arrays\obj\Debug\arrays.csprojAssemblyReference.cache
+C:\Users\David Lim\Desktop\GITA 1\arrays\arrays\obj\Debug\arrays.Form1.resources
+C:\Users\David Lim\Desktop\GITA 1\arrays\arrays\obj\Debug\arrays.Properties.Resources.resources
+C:\Users\David Lim\Desktop\GITA 1\arrays\arrays\obj\Debug\arrays.csproj.GenerateResource.cache
+C:\Users\David Lim\Desktop\GITA 1\arrays\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
+C:\Users\David Lim\Desktop\GITA 1\arrays\arrays\obj\Debug\arrays.exe
+C:\Users\David Lim\Desktop\GITA 1\arrays\arrays\obj\Debug\arrays.pdb
