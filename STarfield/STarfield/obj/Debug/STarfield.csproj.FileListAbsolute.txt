@@ -1,0 +1,20 @@
+C:\Users\David Lim\Desktop\GITA 1\STarfield\STarfield\bin\Debug\STarfield.exe.config
+C:\Users\David Lim\Desktop\GITA 1\STarfield\STarfield\bin\Debug\STarfield.exe
+C:\Users\David Lim\Desktop\GITA 1\STarfield\STarfield\bin\Debug\STarfield.pdb
+C:\Users\David Lim\Desktop\GITA 1\STarfield\STarfield\obj\Debug\STarfield.csprojAssemblyReference.cache
+C:\Users\David Lim\Desktop\GITA 1\STarfield\STarfield\obj\Debug\STarfield.Form1.resources
+C:\Users\David Lim\Desktop\GITA 1\STarfield\STarfield\obj\Debug\STarfield.Properties.Resources.resources
+C:\Users\David Lim\Desktop\GITA 1\STarfield\STarfield\obj\Debug\STarfield.csproj.GenerateResource.cache
+C:\Users\David Lim\Desktop\GITA 1\STarfield\STarfield\obj\Debug\STarfield.csproj.CoreCompileInputs.cache
+C:\Users\David Lim\Desktop\GITA 1\STarfield\STarfield\obj\Debug\STarfield.exe
+C:\Users\David Lim\Desktop\GITA 1\STarfield\STarfield\obj\Debug\STarfield.pdb
+D:\OneDrive\OneDrive\Desktop\GITA 1\STarfield\STarfield\bin\Debug\STarfield.exe.config
+D:\OneDrive\OneDrive\Desktop\GITA 1\STarfield\STarfield\bin\Debug\STarfield.exe
+D:\OneDrive\OneDrive\Desktop\GITA 1\STarfield\STarfield\bin\Debug\STarfield.pdb
+D:\OneDrive\OneDrive\Desktop\GITA 1\STarfield\STarfield\obj\Debug\STarfield.csprojAssemblyReference.cache
+D:\OneDrive\OneDrive\Desktop\GITA 1\STarfield\STarfield\obj\Debug\STarfield.Form1.resources
+D:\OneDrive\OneDrive\Desktop\GITA 1\STarfield\STarfield\obj\Debug\STarfield.Properties.Resources.resources
+D:\OneDrive\OneDrive\Desktop\GITA 1\STarfield\STarfield\obj\Debug\STarfield.csproj.GenerateResource.cache
+D:\OneDrive\OneDrive\Desktop\GITA 1\STarfield\STarfield\obj\Debug\STarfield.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive\Desktop\GITA 1\STarfield\STarfield\obj\Debug\STarfield.exe
+D:\OneDrive\OneDrive\Desktop\GITA 1\STarfield\STarfield\obj\Debug\STarfield.pdb
