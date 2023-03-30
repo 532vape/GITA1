@@ -1,0 +1,10 @@
+C:\Users\David Lim\Desktop\GITA 1\Bookstore\Bookstore\bin\Debug\Bookstore.exe.config
+C:\Users\David Lim\Desktop\GITA 1\Bookstore\Bookstore\bin\Debug\Bookstore.exe
+C:\Users\David Lim\Desktop\GITA 1\Bookstore\Bookstore\bin\Debug\Bookstore.pdb
+C:\Users\David Lim\Desktop\GITA 1\Bookstore\Bookstore\obj\Debug\Bookstore.csprojAssemblyReference.cache
+C:\Users\David Lim\Desktop\GITA 1\Bookstore\Bookstore\obj\Debug\Bookstore.Form1.resources
+C:\Users\David Lim\Desktop\GITA 1\Bookstore\Bookstore\obj\Debug\Bookstore.Properties.Resources.resources
+C:\Users\David Lim\Desktop\GITA 1\Bookstore\Bookstore\obj\Debug\Bookstore.csproj.GenerateResource.cache
+C:\Users\David Lim\Desktop\GITA 1\Bookstore\Bookstore\obj\Debug\Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\David Lim\Desktop\GITA 1\Bookstore\Bookstore\obj\Debug\Bookstore.exe
+C:\Users\David Lim\Desktop\GITA 1\Bookstore\Bookstore\obj\Debug\Bookstore.pdb
