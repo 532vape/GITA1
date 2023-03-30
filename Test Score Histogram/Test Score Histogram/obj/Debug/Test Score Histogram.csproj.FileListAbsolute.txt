@@ -1,0 +1,19 @@
+C:\Users\David Lim\Desktop\GITA 1\Test Score Histogram\Test Score Histogram\bin\Debug\Test Score Histogram.exe.config
+C:\Users\David Lim\Desktop\GITA 1\Test Score Histogram\Test Score Histogram\bin\Debug\Test Score Histogram.exe
+C:\Users\David Lim\Desktop\GITA 1\Test Score Histogram\Test Score Histogram\bin\Debug\Test Score Histogram.pdb
+C:\Users\David Lim\Desktop\GITA 1\Test Score Histogram\Test Score Histogram\obj\Debug\Test Score Histogram.csprojAssemblyReference.cache
+C:\Users\David Lim\Desktop\GITA 1\Test Score Histogram\Test Score Histogram\obj\Debug\Test_Score_Histogram.Form1.resources
+C:\Users\David Lim\Desktop\GITA 1\Test Score Histogram\Test Score Histogram\obj\Debug\Test_Score_Histogram.Properties.Resources.resources
+C:\Users\David Lim\Desktop\GITA 1\Test Score Histogram\Test Score Histogram\obj\Debug\Test Score Histogram.csproj.GenerateResource.cache
+C:\Users\David Lim\Desktop\GITA 1\Test Score Histogram\Test Score Histogram\obj\Debug\Test Score Histogram.exe
+C:\Users\David Lim\Desktop\GITA 1\Test Score Histogram\Test Score Histogram\obj\Debug\Test Score Histogram.pdb
+D:\GITA 1\Test Score Histogram\Test Score Histogram\bin\Debug\Test Score Histogram.exe.config
+D:\GITA 1\Test Score Histogram\Test Score Histogram\bin\Debug\Test Score Histogram.exe
+D:\GITA 1\Test Score Histogram\Test Score Histogram\bin\Debug\Test Score Histogram.pdb
+D:\GITA 1\Test Score Histogram\Test Score Histogram\obj\Debug\Test Score Histogram.csprojAssemblyReference.cache
+D:\GITA 1\Test Score Histogram\Test Score Histogram\obj\Debug\Test_Score_Histogram.Form1.resources
+D:\GITA 1\Test Score Histogram\Test Score Histogram\obj\Debug\Test_Score_Histogram.Properties.Resources.resources
+D:\GITA 1\Test Score Histogram\Test Score Histogram\obj\Debug\Test Score Histogram.csproj.GenerateResource.cache
+D:\GITA 1\Test Score Histogram\Test Score Histogram\obj\Debug\Test Score Histogram.csproj.CoreCompileInputs.cache
+D:\GITA 1\Test Score Histogram\Test Score Histogram\obj\Debug\Test Score Histogram.exe
+D:\GITA 1\Test Score Histogram\Test Score Histogram\obj\Debug\Test Score Histogram.pdb

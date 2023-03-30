@@ -1,0 +1,10 @@
+C:\Users\David Lim\Desktop\GITA 1\Test Calculator\Test Calculator\bin\Debug\Test Calculator.exe.config
+C:\Users\David Lim\Desktop\GITA 1\Test Calculator\Test Calculator\bin\Debug\Test Calculator.exe
+C:\Users\David Lim\Desktop\GITA 1\Test Calculator\Test Calculator\bin\Debug\Test Calculator.pdb
+C:\Users\David Lim\Desktop\GITA 1\Test Calculator\Test Calculator\obj\Debug\Test Calculator.csprojAssemblyReference.cache
+C:\Users\David Lim\Desktop\GITA 1\Test Calculator\Test Calculator\obj\Debug\Test_Calculator.Form1.resources
+C:\Users\David Lim\Desktop\GITA 1\Test Calculator\Test Calculator\obj\Debug\Test_Calculator.Properties.Resources.resources
+C:\Users\David Lim\Desktop\GITA 1\Test Calculator\Test Calculator\obj\Debug\Test Calculator.csproj.GenerateResource.cache
+C:\Users\David Lim\Desktop\GITA 1\Test Calculator\Test Calculator\obj\Debug\Test Calculator.csproj.CoreCompileInputs.cache
+C:\Users\David Lim\Desktop\GITA 1\Test Calculator\Test Calculator\obj\Debug\Test Calculator.exe
+C:\Users\David Lim\Desktop\GITA 1\Test Calculator\Test Calculator\obj\Debug\Test Calculator.pdb
