@@ -1,0 +1,10 @@
+C:\Users\David Lim\Desktop\GITA 1\N!\N!\bin\Debug\N!.exe.config
+C:\Users\David Lim\Desktop\GITA 1\N!\N!\bin\Debug\N!.exe
+C:\Users\David Lim\Desktop\GITA 1\N!\N!\bin\Debug\N!.pdb
+C:\Users\David Lim\Desktop\GITA 1\N!\N!\obj\Debug\N!.csprojAssemblyReference.cache
+C:\Users\David Lim\Desktop\GITA 1\N!\N!\obj\Debug\N_.Form1.resources
+C:\Users\David Lim\Desktop\GITA 1\N!\N!\obj\Debug\N_.Properties.Resources.resources
+C:\Users\David Lim\Desktop\GITA 1\N!\N!\obj\Debug\N!.csproj.GenerateResource.cache
+C:\Users\David Lim\Desktop\GITA 1\N!\N!\obj\Debug\N!.csproj.CoreCompileInputs.cache
+C:\Users\David Lim\Desktop\GITA 1\N!\N!\obj\Debug\N!.exe
+C:\Users\David Lim\Desktop\GITA 1\N!\N!\obj\Debug\N!.pdb

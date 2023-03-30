@@ -1,0 +1,10 @@
+C:\Users\David Lim\Desktop\GITA 1\Mailing Label\Mailing Label\bin\Debug\Mailing Label.exe.config
+C:\Users\David Lim\Desktop\GITA 1\Mailing Label\Mailing Label\bin\Debug\Mailing Label.exe
+C:\Users\David Lim\Desktop\GITA 1\Mailing Label\Mailing Label\bin\Debug\Mailing Label.pdb
+C:\Users\David Lim\Desktop\GITA 1\Mailing Label\Mailing Label\obj\Debug\Mailing Label.csprojAssemblyReference.cache
+C:\Users\David Lim\Desktop\GITA 1\Mailing Label\Mailing Label\obj\Debug\Mailing_Label.title.resources
+C:\Users\David Lim\Desktop\GITA 1\Mailing Label\Mailing Label\obj\Debug\Mailing_Label.Properties.Resources.resources
+C:\Users\David Lim\Desktop\GITA 1\Mailing Label\Mailing Label\obj\Debug\Mailing Label.csproj.GenerateResource.cache
+C:\Users\David Lim\Desktop\GITA 1\Mailing Label\Mailing Label\obj\Debug\Mailing Label.csproj.CoreCompileInputs.cache
+C:\Users\David Lim\Desktop\GITA 1\Mailing Label\Mailing Label\obj\Debug\Mailing Label.exe
+C:\Users\David Lim\Desktop\GITA 1\Mailing Label\Mailing Label\obj\Debug\Mailing Label.pdb
