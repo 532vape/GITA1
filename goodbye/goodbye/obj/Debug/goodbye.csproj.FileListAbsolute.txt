@@ -1,0 +1,10 @@
+C:\Users\David Lim\Desktop\GITA 1\goodbye\goodbye\bin\Debug\goodbye.exe.config
+C:\Users\David Lim\Desktop\GITA 1\goodbye\goodbye\bin\Debug\goodbye.exe
+C:\Users\David Lim\Desktop\GITA 1\goodbye\goodbye\bin\Debug\goodbye.pdb
+C:\Users\David Lim\Desktop\GITA 1\goodbye\goodbye\obj\Debug\goodbye.csprojAssemblyReference.cache
+C:\Users\David Lim\Desktop\GITA 1\goodbye\goodbye\obj\Debug\goodbye.Title.resources
+C:\Users\David Lim\Desktop\GITA 1\goodbye\goodbye\obj\Debug\goodbye.Properties.Resources.resources
+C:\Users\David Lim\Desktop\GITA 1\goodbye\goodbye\obj\Debug\goodbye.csproj.GenerateResource.cache
+C:\Users\David Lim\Desktop\GITA 1\goodbye\goodbye\obj\Debug\goodbye.csproj.CoreCompileInputs.cache
+C:\Users\David Lim\Desktop\GITA 1\goodbye\goodbye\obj\Debug\goodbye.exe
+C:\Users\David Lim\Desktop\GITA 1\goodbye\goodbye\obj\Debug\goodbye.pdb

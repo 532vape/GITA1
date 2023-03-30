@@ -1,0 +1,10 @@
+C:\Users\David Lim\Desktop\GITA 1\ForLoops\ForLoops\bin\Debug\ForLoops.exe.config
+C:\Users\David Lim\Desktop\GITA 1\ForLoops\ForLoops\bin\Debug\ForLoops.exe
+C:\Users\David Lim\Desktop\GITA 1\ForLoops\ForLoops\bin\Debug\ForLoops.pdb
+C:\Users\David Lim\Desktop\GITA 1\ForLoops\ForLoops\obj\Debug\ForLoops.csprojAssemblyReference.cache
+C:\Users\David Lim\Desktop\GITA 1\ForLoops\ForLoops\obj\Debug\ForLoops.Form1.resources
+C:\Users\David Lim\Desktop\GITA 1\ForLoops\ForLoops\obj\Debug\ForLoops.Properties.Resources.resources
+C:\Users\David Lim\Desktop\GITA 1\ForLoops\ForLoops\obj\Debug\ForLoops.csproj.GenerateResource.cache
+C:\Users\David Lim\Desktop\GITA 1\ForLoops\ForLoops\obj\Debug\ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\David Lim\Desktop\GITA 1\ForLoops\ForLoops\obj\Debug\ForLoops.exe
+C:\Users\David Lim\Desktop\GITA 1\ForLoops\ForLoops\obj\Debug\ForLoops.pdb
