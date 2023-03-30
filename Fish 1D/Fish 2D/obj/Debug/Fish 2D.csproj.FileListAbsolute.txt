@@ -1,0 +1,30 @@
+C:\Users\David Lim\Desktop\GITA 1\Fish 2D\Fish 2D\bin\Debug\Fish 2D.exe.config
+C:\Users\David Lim\Desktop\GITA 1\Fish 2D\Fish 2D\bin\Debug\Fish 2D.exe
+C:\Users\David Lim\Desktop\GITA 1\Fish 2D\Fish 2D\bin\Debug\Fish 2D.pdb
+C:\Users\David Lim\Desktop\GITA 1\Fish 2D\Fish 2D\obj\Debug\Fish 2D.csprojAssemblyReference.cache
+C:\Users\David Lim\Desktop\GITA 1\Fish 2D\Fish 2D\obj\Debug\Fish_2D.Form1.resources
+C:\Users\David Lim\Desktop\GITA 1\Fish 2D\Fish 2D\obj\Debug\Fish_2D.Properties.Resources.resources
+C:\Users\David Lim\Desktop\GITA 1\Fish 2D\Fish 2D\obj\Debug\Fish 2D.csproj.GenerateResource.cache
+C:\Users\David Lim\Desktop\GITA 1\Fish 2D\Fish 2D\obj\Debug\Fish 2D.csproj.CoreCompileInputs.cache
+C:\Users\David Lim\Desktop\GITA 1\Fish 2D\Fish 2D\obj\Debug\Fish 2D.exe
+C:\Users\David Lim\Desktop\GITA 1\Fish 2D\Fish 2D\obj\Debug\Fish 2D.pdb
+C:\Users\David Lim\Desktop\GITA 1\Fish 1D\Fish 2D\bin\Debug\Fish 2D.exe.config
+C:\Users\David Lim\Desktop\GITA 1\Fish 1D\Fish 2D\bin\Debug\Fish 2D.exe
+C:\Users\David Lim\Desktop\GITA 1\Fish 1D\Fish 2D\bin\Debug\Fish 2D.pdb
+C:\Users\David Lim\Desktop\GITA 1\Fish 1D\Fish 2D\obj\Debug\Fish 2D.csprojAssemblyReference.cache
+C:\Users\David Lim\Desktop\GITA 1\Fish 1D\Fish 2D\obj\Debug\Fish_2D.Form1.resources
+C:\Users\David Lim\Desktop\GITA 1\Fish 1D\Fish 2D\obj\Debug\Fish_2D.Properties.Resources.resources
+C:\Users\David Lim\Desktop\GITA 1\Fish 1D\Fish 2D\obj\Debug\Fish 2D.csproj.GenerateResource.cache
+C:\Users\David Lim\Desktop\GITA 1\Fish 1D\Fish 2D\obj\Debug\Fish 2D.csproj.CoreCompileInputs.cache
+C:\Users\David Lim\Desktop\GITA 1\Fish 1D\Fish 2D\obj\Debug\Fish 2D.exe
+C:\Users\David Lim\Desktop\GITA 1\Fish 1D\Fish 2D\obj\Debug\Fish 2D.pdb
+D:\GITA 1\Fish 1D\Fish 2D\bin\Debug\Fish 2D.exe.config
+D:\GITA 1\Fish 1D\Fish 2D\bin\Debug\Fish 2D.exe
+D:\GITA 1\Fish 1D\Fish 2D\bin\Debug\Fish 2D.pdb
+D:\GITA 1\Fish 1D\Fish 2D\obj\Debug\Fish 2D.csproj.AssemblyReference.cache
+D:\GITA 1\Fish 1D\Fish 2D\obj\Debug\Fish_2D.Form1.resources
+D:\GITA 1\Fish 1D\Fish 2D\obj\Debug\Fish_2D.Properties.Resources.resources
+D:\GITA 1\Fish 1D\Fish 2D\obj\Debug\Fish 2D.csproj.GenerateResource.cache
+D:\GITA 1\Fish 1D\Fish 2D\obj\Debug\Fish 2D.csproj.CoreCompileInputs.cache
+D:\GITA 1\Fish 1D\Fish 2D\obj\Debug\Fish 2D.exe
+D:\GITA 1\Fish 1D\Fish 2D\obj\Debug\Fish 2D.pdb
