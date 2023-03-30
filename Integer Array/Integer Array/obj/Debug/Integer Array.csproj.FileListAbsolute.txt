@@ -1,0 +1,19 @@
+C:\Users\David Lim\Desktop\GITA 1\Integer Array\Integer Array\obj\Debug\Integer Array.csprojAssemblyReference.cache
+C:\Users\David Lim\Desktop\GITA 1\Integer Array\Integer Array\obj\Debug\Integer_Array.Form1.resources
+C:\Users\David Lim\Desktop\GITA 1\Integer Array\Integer Array\obj\Debug\Integer_Array.Properties.Resources.resources
+C:\Users\David Lim\Desktop\GITA 1\Integer Array\Integer Array\obj\Debug\Integer Array.csproj.GenerateResource.cache
+C:\Users\David Lim\Desktop\GITA 1\Integer Array\Integer Array\bin\Debug\Integer Array.exe.config
+C:\Users\David Lim\Desktop\GITA 1\Integer Array\Integer Array\bin\Debug\Integer Array.exe
+C:\Users\David Lim\Desktop\GITA 1\Integer Array\Integer Array\bin\Debug\Integer Array.pdb
+C:\Users\David Lim\Desktop\GITA 1\Integer Array\Integer Array\obj\Debug\Integer Array.exe
+C:\Users\David Lim\Desktop\GITA 1\Integer Array\Integer Array\obj\Debug\Integer Array.pdb
+D:\GITA 1\Integer Array\Integer Array\bin\Debug\Integer Array.exe.config
+D:\GITA 1\Integer Array\Integer Array\bin\Debug\Integer Array.exe
+D:\GITA 1\Integer Array\Integer Array\bin\Debug\Integer Array.pdb
+D:\GITA 1\Integer Array\Integer Array\obj\Debug\Integer Array.csprojAssemblyReference.cache
+D:\GITA 1\Integer Array\Integer Array\obj\Debug\Integer_Array.Form1.resources
+D:\GITA 1\Integer Array\Integer Array\obj\Debug\Integer_Array.Properties.Resources.resources
+D:\GITA 1\Integer Array\Integer Array\obj\Debug\Integer Array.csproj.GenerateResource.cache
+D:\GITA 1\Integer Array\Integer Array\obj\Debug\Integer Array.csproj.CoreCompileInputs.cache
+D:\GITA 1\Integer Array\Integer Array\obj\Debug\Integer Array.exe
+D:\GITA 1\Integer Array\Integer Array\obj\Debug\Integer Array.pdb
