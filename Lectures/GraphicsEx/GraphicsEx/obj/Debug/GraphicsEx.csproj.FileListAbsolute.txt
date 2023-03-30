@@ -1,0 +1,10 @@
+C:\Users\David Lim\Desktop\GITA 1\GraphicsEx\GraphicsEx\bin\Debug\GraphicsEx.exe.config
+C:\Users\David Lim\Desktop\GITA 1\GraphicsEx\GraphicsEx\bin\Debug\GraphicsEx.exe
+C:\Users\David Lim\Desktop\GITA 1\GraphicsEx\GraphicsEx\bin\Debug\GraphicsEx.pdb
+C:\Users\David Lim\Desktop\GITA 1\GraphicsEx\GraphicsEx\obj\Debug\GraphicsEx.csprojAssemblyReference.cache
+C:\Users\David Lim\Desktop\GITA 1\GraphicsEx\GraphicsEx\obj\Debug\GraphicsEx.Properties.Resources.resources
+C:\Users\David Lim\Desktop\GITA 1\GraphicsEx\GraphicsEx\obj\Debug\GraphicsEx.csproj.GenerateResource.cache
+C:\Users\David Lim\Desktop\GITA 1\GraphicsEx\GraphicsEx\obj\Debug\GraphicsEx.csproj.CoreCompileInputs.cache
+C:\Users\David Lim\Desktop\GITA 1\GraphicsEx\GraphicsEx\obj\Debug\GraphicsEx.exe
+C:\Users\David Lim\Desktop\GITA 1\GraphicsEx\GraphicsEx\obj\Debug\GraphicsEx.pdb
+C:\Users\David Lim\Desktop\GITA 1\GraphicsEx\GraphicsEx\obj\Debug\GraphicsEx.Form1.resources

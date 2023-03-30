@@ -1,0 +1,9 @@
+C:\Users\David Lim\Desktop\GITA 1\Number Arrays\Number Arrays\bin\Debug\Number Arrays.exe.config
+C:\Users\David Lim\Desktop\GITA 1\Number Arrays\Number Arrays\bin\Debug\Number Arrays.exe
+C:\Users\David Lim\Desktop\GITA 1\Number Arrays\Number Arrays\bin\Debug\Number Arrays.pdb
+C:\Users\David Lim\Desktop\GITA 1\Number Arrays\Number Arrays\obj\Debug\Number Arrays.csprojAssemblyReference.cache
+C:\Users\David Lim\Desktop\GITA 1\Number Arrays\Number Arrays\obj\Debug\Number_Arrays.Form1.resources
+C:\Users\David Lim\Desktop\GITA 1\Number Arrays\Number Arrays\obj\Debug\Number_Arrays.Properties.Resources.resources
+C:\Users\David Lim\Desktop\GITA 1\Number Arrays\Number Arrays\obj\Debug\Number Arrays.csproj.GenerateResource.cache
+C:\Users\David Lim\Desktop\GITA 1\Number Arrays\Number Arrays\obj\Debug\Number Arrays.exe
+C:\Users\David Lim\Desktop\GITA 1\Number Arrays\Number Arrays\obj\Debug\Number Arrays.pdb
