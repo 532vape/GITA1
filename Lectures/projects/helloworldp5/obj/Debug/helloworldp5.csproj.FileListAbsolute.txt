@@ -1,0 +1,10 @@
+C:\Users\David Lim\Desktop\GITA 1\helloworldp5\helloworldp5\bin\Debug\helloworldp5.exe.config
+C:\Users\David Lim\Desktop\GITA 1\helloworldp5\helloworldp5\bin\Debug\helloworldp5.exe
+C:\Users\David Lim\Desktop\GITA 1\helloworldp5\helloworldp5\bin\Debug\helloworldp5.pdb
+C:\Users\David Lim\Desktop\GITA 1\helloworldp5\helloworldp5\obj\Debug\helloworldp5.csprojAssemblyReference.cache
+C:\Users\David Lim\Desktop\GITA 1\helloworldp5\helloworldp5\obj\Debug\helloworldp5.Form1.resources
+C:\Users\David Lim\Desktop\GITA 1\helloworldp5\helloworldp5\obj\Debug\helloworldp5.Properties.Resources.resources
+C:\Users\David Lim\Desktop\GITA 1\helloworldp5\helloworldp5\obj\Debug\helloworldp5.csproj.GenerateResource.cache
+C:\Users\David Lim\Desktop\GITA 1\helloworldp5\helloworldp5\obj\Debug\helloworldp5.csproj.CoreCompileInputs.cache
+C:\Users\David Lim\Desktop\GITA 1\helloworldp5\helloworldp5\obj\Debug\helloworldp5.exe
+C:\Users\David Lim\Desktop\GITA 1\helloworldp5\helloworldp5\obj\Debug\helloworldp5.pdb

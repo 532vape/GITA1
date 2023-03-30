@@ -1,0 +1,10 @@
+C:\Users\David Lim\Desktop\GITA 1\Radio Buttons\Radio Buttons\bin\Debug\Radio Buttons.exe.config
+C:\Users\David Lim\Desktop\GITA 1\Radio Buttons\Radio Buttons\bin\Debug\Radio Buttons.exe
+C:\Users\David Lim\Desktop\GITA 1\Radio Buttons\Radio Buttons\bin\Debug\Radio Buttons.pdb
+C:\Users\David Lim\Desktop\GITA 1\Radio Buttons\Radio Buttons\obj\Debug\Radio Buttons.csprojAssemblyReference.cache
+C:\Users\David Lim\Desktop\GITA 1\Radio Buttons\Radio Buttons\obj\Debug\Radio_Buttons.Form1.resources
+C:\Users\David Lim\Desktop\GITA 1\Radio Buttons\Radio Buttons\obj\Debug\Radio_Buttons.Properties.Resources.resources
+C:\Users\David Lim\Desktop\GITA 1\Radio Buttons\Radio Buttons\obj\Debug\Radio Buttons.csproj.GenerateResource.cache
+C:\Users\David Lim\Desktop\GITA 1\Radio Buttons\Radio Buttons\obj\Debug\Radio Buttons.csproj.CoreCompileInputs.cache
+C:\Users\David Lim\Desktop\GITA 1\Radio Buttons\Radio Buttons\obj\Debug\Radio Buttons.exe
+C:\Users\David Lim\Desktop\GITA 1\Radio Buttons\Radio Buttons\obj\Debug\Radio Buttons.pdb
